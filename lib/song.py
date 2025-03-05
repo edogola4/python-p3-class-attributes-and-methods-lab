@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 class Song:
     # Class attributes
     count = 0
